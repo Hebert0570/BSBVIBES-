@@ -13,3 +13,7 @@ A proposta escolhida pelo grupo foi a criação do **BSbVibes**, um portal de tu
 A solução demonstra fluxos interativos de navegação, uma experiência de usuário (UI/UX) limpa e a superação de barreiras técnicas de plataformas gratuitas por meio de injeção de scripts customizados.
 
 👉 [Clique aqui para acessar o site oficial](https://bsbvibes.wixsite.com/site-1)
+
+👉 [Clique aqui para acessar o documento oficial](https://docs.google.com/document/d/1tWstsJolVnseQQAvrT9CoVUIgdr4OXzvqVJVDwYF8Po/edit?usp=sharing)
+
+👉 [Clique aqui para acessar a justificativa do nosso projeto](https://docs.google.com/document/d/1tGFA1-khawUT4RwTZfg_ByX47vNggJgH4SxvaBFyJa8/edit?usp=sharing)
